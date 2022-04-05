@@ -61,18 +61,3 @@ FROM bitnami/kubewatch:0.1.0-debian-10-r554
 
 # Tags: 0.1.0-debian-10-r553
 FROM bitnami/kubewatch:0.1.0-debian-10-r553
-
-# Tags: 0.1.0-debian-10-r552
-FROM bitnami/kubewatch:0.1.0-debian-10-r552
-
-# Tags: 0.1.0-debian-10-r551
-FROM bitnami/kubewatch:0.1.0-debian-10-r551
-
-# Tags: 0.1.0-debian-10-r550
-FROM bitnami/kubewatch:0.1.0-debian-10-r550
-
-# Tags: 0.1.0-debian-10-r549
-FROM bitnami/kubewatch:0.1.0-debian-10-r549
-
-# Tags: 0.1.0-debian-10-r548
-FROM bitnami/kubewatch:0.1.0-debian-10-r548
